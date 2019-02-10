@@ -7,21 +7,13 @@
  */
 public class Display
 {
-    private double result;
-    private double state;
-    
-    public double result()
-    {
-        return result;
+    public static void print(String s) {
+        System.out.println(s);
     }
     
-    public double clear()
-    {
-        return result = 0;
-    }
-    
-    public double state()
-    {
-        return result;
+    public static void displayHelp() {
+        String helpMsg = "This is the help message";
+        
+        print(helpMsg);
     }
 }
