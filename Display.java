@@ -1,10 +1,4 @@
 
-/**
- * This is the calculator display and its methods
- *
- * @author Joe Fen
- * @version (a version number or a date)
- */
 public class Display
 {
     public static void print(String s) {

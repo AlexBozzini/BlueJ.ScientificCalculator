@@ -1,10 +1,5 @@
  
-/**
- * These are all the methods the user can call on
- *
- * @author Joe Fen
- * @version (a version number or a date)
- */
+
 public class Calculations
 {
     public static double multiply(double firstNum, double secondNum)
